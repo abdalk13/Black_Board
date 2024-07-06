@@ -1,0 +1,77 @@
+[
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/index.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/index.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/index.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/Assessment.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Assessment.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Assessment.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/Exam.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Exam.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Exam.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/Assignment.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Assignment.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Assignment.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/Person.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Person.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Person.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/Student.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Student.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Student.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/Course.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Course.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Course.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/StudyProgram.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/StudyProgram.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/StudyProgram.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/StudyProgramInstance.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/StudyProgramInstance.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/StudyProgramInstance.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/CourseInstance.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/CourseInstance.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/CourseInstance.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/Teacher.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Teacher.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Teacher.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/Administrator.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Administrator.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Administrator.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/Blackboard.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Blackboard.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Blackboard.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/Info.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Info.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/Info.cpp"
+},
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib",
+  "command": "/C/msys64/mingw64/bin/c++.exe  @CMakeFiles/lab4.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles/lab4.dir/WhatCourse.cpp.obj -c /C/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/WhatCourse.cpp",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/Oop/oop_lab4/lib/WhatCourse.cpp"
+}
+]
